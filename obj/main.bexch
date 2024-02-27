@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/yurii/AdaProjectcs/POP_1_Ada/pop_1_ada.gpr
+20240227210243 7416453c45112a5cfcb007bcb8cfa87d
+[BOUND OBJECT FILES]
+/home/yurii/AdaProjectcs/POP_1_Ada/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/yurii/AdaProjectcs/POP_1_Ada/obj/
+-L/home/yurii/AdaProjectcs/POP_1_Ada/obj/
+-L/home/yurii/opt/GNAT/2021/GnatStudio/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/
+-static
+-static-libgcc
+/home/yurii/opt/GNAT/2021/GnatStudio/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/libgnarl.a
+/home/yurii/opt/GNAT/2021/GnatStudio/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/libgnat.a
+-lrt
+-lpthread
+-ldl
